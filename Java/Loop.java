@@ -8,13 +8,19 @@ public class Loop {
         int n = sc.nextInt();
 
         //While Loop
-        int i = 0;
-        while(i<n)
-        {
-            System.out.println("Devesh Sharma");
-            i++;
-        }
+        // int i = 0;
+        // while(i<n)
+        // {
+        //     System.out.println("Devesh Sharma");
+        //     i++;
+        // }
 
+        //FOR LOOP
+
+        for(int i=1; i<=n; i++)
+        {
+            System.out.println("This is a for loop guys");
+        }
        
     }
 }
