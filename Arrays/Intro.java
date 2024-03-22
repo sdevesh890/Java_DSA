@@ -66,5 +66,6 @@ public class Intro {
         // brr = other;
 
         // System.out.println(arr[0] + " " + brr[0]);
+        sc.close();
     }
 }

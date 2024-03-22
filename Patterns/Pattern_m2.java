@@ -62,7 +62,7 @@ public class Pattern_m2 {
             space--;
             star+=2;
             System.out.println();
-
+            sc.close();
         }
     }
 }

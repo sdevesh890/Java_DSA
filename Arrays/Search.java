@@ -30,5 +30,6 @@ public class Search {
             int res = search(arr,item);
 
             System.out.println(res);
+            sc.close();
     }
 }

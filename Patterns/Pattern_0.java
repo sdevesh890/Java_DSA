@@ -30,5 +30,6 @@ public class Pattern_0 {
             row++;
             System.out.println();
         }
+        sc.close();
     }
 }

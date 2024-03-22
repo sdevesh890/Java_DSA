@@ -60,6 +60,6 @@ public class Pattern_1 {
             row++;
             System.out.println();
         }
-
+        sc.close();
     }
 }

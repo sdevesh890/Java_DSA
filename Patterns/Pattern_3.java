@@ -57,5 +57,6 @@ public class Pattern_3 {
             star-=2;
             System.out.println();
         }
+        sc.close();
     }
 }

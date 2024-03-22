@@ -34,5 +34,7 @@ public class Dec2Bin {
             n = n/10;
         }
         System.out.println(sum);
+        sc.close();
+
     }
 }

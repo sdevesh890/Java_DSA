@@ -1,5 +1,4 @@
 package Java;
-import java.util.Scanner;
 public class Intro {
     public static void main(String args[]) {
         // Used to print any statement
@@ -57,12 +56,12 @@ public class Intro {
         System.out.println(a!=b);
 
         // Logical Operator
-        System.out.println((10==10) && (10>5));
+        // System.out.println((10==10) && (10>5));
         System.out.println((10==15) || (10>5));
         System.out.println(!(10==100));
         
         // How to get input from USER;
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
 
 
     }

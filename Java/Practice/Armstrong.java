@@ -17,7 +17,6 @@ public class Armstrong {
     }
     public int Armcal(int n, int len)
     {
-        int temp = n;
         int sum = 0;
         while(n>0)
         {
@@ -40,6 +39,6 @@ public class Armstrong {
            System.err.println("YES IT IS AN ARMSTRONG NUMBER");
            else
            System.err.println("NO");
-
+           sc.close();
     }
 }

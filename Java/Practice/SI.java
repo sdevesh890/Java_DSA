@@ -31,5 +31,6 @@ public class SI {
         {
             System.out.println("Sorry , You can't Vote :)");
         }
+        sc.close();
     }
 }

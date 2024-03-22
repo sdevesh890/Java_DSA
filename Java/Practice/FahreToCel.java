@@ -16,5 +16,7 @@ public class FahreToCel
             int res = (int)((5.0/9)*(i-32));
             System.out.println(i + " "+res);
         }
+        sc.close();
+        
     }
 }

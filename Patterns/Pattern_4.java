@@ -66,6 +66,7 @@ public class Pattern_4 {
             space-=2;
             star++;
             System.out.println();
+            sc.close();
         }
     }
 }

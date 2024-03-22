@@ -29,5 +29,6 @@ public class Pattern_2 {
         row++;
         System.out.println();
     }
+    sc.close();
    }
 }

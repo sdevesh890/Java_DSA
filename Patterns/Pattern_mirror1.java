@@ -61,5 +61,6 @@ public class Pattern_mirror1 {
         row++;
         System.out.println();
     }
+    sc.close();
    } 
 }

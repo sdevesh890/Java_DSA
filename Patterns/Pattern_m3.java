@@ -37,6 +37,7 @@ public class Pattern_m3 {
             space--;
             star+=2;
             System.out.println();
+            sc.close();
         }
     }
 }

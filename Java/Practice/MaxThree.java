@@ -20,5 +20,6 @@ public class MaxThree {
         {
             System.out.println(c);
         }
+        sc.close();
     }
 }

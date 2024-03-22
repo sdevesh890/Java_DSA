@@ -21,6 +21,6 @@ public class Loop {
         {
             System.out.println("This is a for loop guys");
         }
-       
+        sc.close();
     }
 }

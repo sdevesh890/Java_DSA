@@ -33,5 +33,6 @@ public class Fibbonacci {
             rem = dividend%divisor;
         }
         System.out.println(divisor);
+        sc.close();
     }
 }
